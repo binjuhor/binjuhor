@@ -1,6 +1,6 @@
 👋🏻  Hi! I'm Kiem Hoang, aka binjuhor, and I'm a Web developer. I also have a detail profile on [this URL](https://binjuhor.now.sh "My Online profile")
 
-- 🔭 I’m currently working on PHP, WordPress, HTML, CSS, jQuery, Shopify
+- 🔭 I’m currently working on PHP, WordPress, Laravel, HTML, CSS, jQuery, Shopify
 - 🌱 I’m currently learning deeper Vanila Javascript
 - 👯 I’m looking to collaborate on remote developer position, or outsourcing team.
 - 🤔 I’m looking for help with how to growth a Hybird business.
