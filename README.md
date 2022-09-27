@@ -1,4 +1,4 @@
-<a href="https://binjuhor.now.sh" target="_blank"><img align="right" src="https://github.com/binjuhor/binjuhor/blob/master/devcard.svg" width="350" alt="Hoàng Kiếm's Dev Card"/></a>
+<a href="https://binjuhor.now.sh" target="_blank"><img align="right" src="https://github.com/binjuhor/binjuhor/blob/master/devcard.svg" width="300" alt="Hoàng Kiếm's Dev Card"/></a>
 
   
 <div align="left">
@@ -9,7 +9,7 @@
   👋🏻  Hi! I'm Kiem Hoang, aka binjuhor (or Kai), and I'm a Web developer.<br/>
   I also have a detail profile on [this URL](https://binjuhor.now.sh "My Online profile")
   
-  <a href="https://binjuhor.now.sh" target="_blank"><img src="https://github.com/binjuhor/binjuhor/blob/master/github-metrics.svg" width="540" alt="Github Metrics"/></a>
+  <a href="https://binjuhor.now.sh" target="_blank"><img src="https://github.com/binjuhor/binjuhor/blob/master/github-metrics.svg" width="500" alt="Github Metrics"/></a>
 </div>
 
 <div align="left">
