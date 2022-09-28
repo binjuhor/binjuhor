@@ -29,6 +29,6 @@
 - 📚 I enjoy sharing my experience as an [Author](https://wpazweb.com "Help you from zero to a Web developer in Vietnamese")
 </div>
 
-<a href="https://binjuhor.now.sh" target="_blank"><img align="left" src="https://github.com/binjuhor/binjuhor/blob/master/achievements.svg" alt="Achievements"/></a>
+<a href="https://binjuhor.now.sh" target="_blank"><img src="https://github.com/binjuhor/binjuhor/blob/master/achievements.svg" alt="Achievements"/></a>
 
-<a href="https://binjuhor.now.sh" target="_blank"><img align="left" src="https://github.com/binjuhor/binjuhor/blob/master/notable.svg" alt="Notable"/></a>
+<a href="https://binjuhor.now.sh" target="_blank"><img src="https://github.com/binjuhor/binjuhor/blob/master/notable.svg" alt="Notable"/></a>
