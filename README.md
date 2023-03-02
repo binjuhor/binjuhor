@@ -3,7 +3,7 @@
   
 <div align="left">
   
-  # I'm Kiem Hoang (12.235 days)
+  # I'm Kiem Hoang (12.264 days)
   
 
   👋🏻  Hi! I'm Kiem Hoang, aka binjuhor (or Kai), and I'm a Web developer.<br/>
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about WordPress, PHP, HTML, CSS or jQuery.
 
-- 📫 How to reach me: ping me on [Facebook](https://fb.me/hwangkiem) or [Telegram](https://t.me/binjuhor)
+- 📫 How to reach me: ping me on [Facebook](https://fb.me/binjuhor) or [Telegram](https://t.me/binjuhor)
 
 - 📚 I enjoy sharing my experience as an [Author](https://wpazweb.com "Help you from zero to a Web developer in Vietnamese")
 </div>
