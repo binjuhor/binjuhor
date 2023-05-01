@@ -3,7 +3,7 @@
   
 <div align="left">
   
-  # I'm Kiem Hoang (12.324 days)
+  # I'm Kiem Hoang (12.325 days)
   
 
   👋🏻  Hi! I'm Kiem Hoang, aka binjuhor (or Kai), and I'm a Web developer.<br/>
