@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on PHP, WordPress, Laravel, Shopify, HTML, CSS, jQuery, VueJs & ReactJs
 
-- 🌱 Learning React Native & Flutter ( mobile app )
+- 🌱 Learning 2023 ( Mobile app & Project Manager)
 
 - 💬 Ask me about WordPress, PHP, HTML, CSS or jQuery.
 
