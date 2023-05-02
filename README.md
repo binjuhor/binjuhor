@@ -14,9 +14,9 @@
 
 <div align="left">
 
-- 🔭 I’m currently working on PHP, WordPress, Laravel, HTML, CSS, jQuery, Shopify
+- 🔭 I’m currently working on PHP, WordPress, Laravel, Shopify, HTML, CSS, jQuery, VueJs & ReactJs
 
-- 🌱 Learning deeper Vanila Javascript
+- 🌱 Learning React Native & Flutter ( mobile app )
 
 - 💬 Ask me about WordPress, PHP, HTML, CSS or jQuery.
 
