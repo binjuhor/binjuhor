@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on PHP, WordPress, Laravel, Shopify, HTML, CSS, jQuery, VueJs & ReactJs
 
-- 🌱 Learning 2023 ( Mobile app & ~Project Manager~)
+- 🌱 Learning 2023 ( Mobile app & ~[Project Manager](https://www.credly.com/badges/da45aa6a-1841-45b1-a619-cb0b8247993c)~)
 
 - 💬 Ask me about WordPress, PHP, HTML, CSS or jQuery.
 
