@@ -10,3 +10,16 @@ Already up to date.
 To github.com:binjuhor/binjuhor.git
    4f1430f..a7fd9fc  master -> master
 Already up to date.
+[master b9fdb6c] chore: update readme.md file 04/12/2023
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+To github.com:binjuhor/binjuhor.git
+   14df2a0..b9fdb6c  master -> master
+branch 'master' set up to track 'origin/master'.
+From github.com:binjuhor/binjuhor
+   b9fdb6c..716a1be  master     -> origin/master
+Updating b9fdb6c..716a1be
+Fast-forward
+ achievements.svg   | 12 ++++++------
+ devcard.svg        | 26 +++++++++++++-------------
+ github-metrics.svg | 26 +++++++++++++-------------
+ 3 files changed, 32 insertions(+), 32 deletions(-)
