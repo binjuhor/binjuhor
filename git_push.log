@@ -36,3 +36,16 @@ Fast-forward
  devcard.svg        | 10 +++++-----
  github-metrics.svg | 26 +++++++++++++-------------
  3 files changed, 27 insertions(+), 27 deletions(-)
+[master b1324fe] chore: update readme.md file 06/12/2023
+ 2 files changed, 14 insertions(+), 1 deletion(-)
+To github.com:binjuhor/binjuhor.git
+   907a8a1..b1324fe  master -> master
+branch 'master' set up to track 'origin/master'.
+From github.com:binjuhor/binjuhor
+   b1324fe..7539b09  master     -> origin/master
+Updating b1324fe..7539b09
+Fast-forward
+ achievements.svg   | 14 +++++++-------
+ devcard.svg        | 10 +++++-----
+ github-metrics.svg | 26 +++++++++++++-------------
+ 3 files changed, 25 insertions(+), 25 deletions(-)
