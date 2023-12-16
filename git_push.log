@@ -165,3 +165,16 @@ Fast-forward
  devcard.svg        |  4 ++--
  github-metrics.svg | 24 ++++++++++++------------
  3 files changed, 17 insertions(+), 17 deletions(-)
+[master 4410cd0] chore: update readme.md file 16/12/2023
+ 2 files changed, 14 insertions(+), 1 deletion(-)
+To github.com:binjuhor/binjuhor.git
+   9e631f4..4410cd0  master -> master
+branch 'master' set up to track 'origin/master'.
+From github.com:binjuhor/binjuhor
+   4410cd0..ae010ed  master     -> origin/master
+Updating 4410cd0..ae010ed
+Fast-forward
+ achievements.svg   | 12 ++++++------
+ devcard.svg        |  8 ++++----
+ github-metrics.svg | 26 +++++++++++++-------------
+ 3 files changed, 23 insertions(+), 23 deletions(-)
