@@ -407,3 +407,16 @@ Fast-forward
  achievements.svg   | 36 ++++++++++++++++++------------------
  github-metrics.svg | 24 ++++++++++++------------
  2 files changed, 30 insertions(+), 30 deletions(-)
+[master 67e8cdb] chore: update readme.md file 04/01/2024
+ 2 files changed, 13 insertions(+), 1 deletion(-)
+To github.com:binjuhor/binjuhor.git
+   0531061..67e8cdb  master -> master
+branch 'master' set up to track 'origin/master'.
+From github.com:binjuhor/binjuhor
+   67e8cdb..2e1098c  master     -> origin/master
+Updating 67e8cdb..2e1098c
+Fast-forward
+ achievements.svg   | 20 ++++++++++----------
+ devcard.svg        |  4 ++--
+ github-metrics.svg | 24 ++++++++++++------------
+ 3 files changed, 24 insertions(+), 24 deletions(-)
