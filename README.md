@@ -1,4 +1,4 @@
-<a href="https://binjuhor.com" target="_blank"><img align="right" src="https://github.com/binjuhor/binjuhor/blob/master/devcard.svg" width="300" alt="Hoàng Kiếm's Dev Card"/></a>
+<a href="https://binjuhor.com" target="_blank"><img align="right" src="https://api.daily.dev/devcards/v2/kGuYkws491R7JyVmfgIU5.png?type=default&r=mxc" width="300" alt="Hoàng Kiếm's Dev Card"/></a>
 
   
 <div align="left">
