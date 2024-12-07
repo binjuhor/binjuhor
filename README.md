@@ -1,15 +1,15 @@
-<a href="https://binjuhor.com" target="_blank"><img align="right" src="https://api.daily.dev/devcards/v2/kGuYkws491R7JyVmfgIU5.png?type=default&r=mxc" width="300" alt="Hoàng Kiếm's Dev Card"/></a>
+<a href="https://binjuhor.com" style="position: relative; z-index:2;" target="_blank"><img align="right" src="https://api.daily.dev/devcards/v2/kGuYkws491R7JyVmfgIU5.png?type=default&r=mxc" width="300" alt="Hoàng Kiếm's Dev Card"/></a>
 
-  
+
 <div align="left">
-  
+
   # I'm Kiem Hoang (12.910 days)
-  
+
 
 Software Engineer with over 10 years of experience in developing innovative solutions for startups, enterprise products, and award-winning agencies. Skilled in both remote and in-office environments, I take pride in taking ownership of projects and consistently delivering results ahead of expectations. Proficient in web development, WordPress, and Laravel, and always eager to adapt to new technologies and stack requirements..
 
  [this URL](https://binjuhor.com "My Online profile")
-  
+
   <a href="https://binjuhor.com" target="_blank"><img src="https://github.com/binjuhor/binjuhor/blob/master/github-metrics.svg" width="500" alt="Github Metrics"/></a>
 </div>
 
