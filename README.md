@@ -6,8 +6,9 @@
   # I'm Kiem Hoang (12.910 days)
   
 
-  👋🏻 Hi! I'm Kiem Hoang, aka binjuhor (or Kai), and I'm a Freelancer Web developer.<br/>
-  I also have a detail profile on [this URL](https://binjuhor.com "My Online profile")
+Software Engineer with over 10 years of experience in developing innovative solutions for startups, enterprise products, and award-winning agencies. Skilled in both remote and in-office environments, I take pride in taking ownership of projects and consistently delivering results ahead of expectations. Proficient in web development, WordPress, and Laravel, and always eager to adapt to new technologies and stack requirements..
+
+ [this URL](https://binjuhor.com "My Online profile")
   
   <a href="https://binjuhor.com" target="_blank"><img src="https://github.com/binjuhor/binjuhor/blob/master/github-metrics.svg" width="500" alt="Github Metrics"/></a>
 </div>
