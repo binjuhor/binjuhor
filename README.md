@@ -3,7 +3,7 @@
 
 <div align="left">
 
-  # I'm Kiem Hoang (12.942 days)
+  # I'm Kiem Hoang (12.943 days)
 
 
 Software Engineer with over 10 years of experience in developing innovative solutions for startups, enterprise products, and award-winning agencies. Skilled in both remote and in-office environments, I take pride in taking ownership of projects and consistently delivering results ahead of expectations. Proficient in web development, WordPress, and Laravel, and always eager to adapt to new technologies and stack requirements..
