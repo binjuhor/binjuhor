@@ -1,6 +1,3 @@
-<a href="https://binjuhor.com" style="position: relative; z-index:2;" target="_blank"><img align="right" src="https://api.daily.dev/devcards/v2/kGuYkws491R7JyVmfgIU5.png?type=default&r=mxc" width="300" alt="Hoàng Kiếm's Dev Card"/></a>
-
-
 <div align="left">
 
   # I'm Kiem Hoang
