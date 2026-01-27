@@ -8,9 +8,7 @@
 
 Software Engineer with over 10 years of experience in developing innovative solutions for startups, enterprise products, and award-winning agencies. Skilled in both remote and in-office environments, I take pride in taking ownership of projects and consistently delivering results ahead of expectations. Proficient in web development, WordPress, and Laravel, and always eager to adapt to new technologies and stack requirements..
 
- [this URL](https://binjuhor.com "My Online profile")
-
-  <a href="https://binjuhor.com" target="_blank"><img src="https://github.com/binjuhor/binjuhor/blob/master/github-metrics.svg" width="500" alt="Github Metrics"/></a>
+ [this URL](https://binjuhor.com/about "My Online profile")
 </div>
 
 <div align="left">
@@ -21,7 +19,7 @@ Software Engineer with over 10 years of experience in developing innovative solu
 
 - 📫 How to reach me: ping me on [Facebook](https://fb.me/binjuhor) or [Telegram](https://t.me/binjuhor).
 
-- 📚 I enjoy sharing my experience as an [Author](https://wpazweb.com "Help you from zero to a Web developer in Vietnamese").
+- 📚 I enjoy sharing my experience as an [Author](https://binjuhor.com/blog "Help you from zero to a Web developer in Vietnamese").
 </div>
 
 ### Skills
