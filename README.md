@@ -3,9 +3,9 @@
   # I'm Kiem Hoang
 
 
-Software Engineer with over 10 years of experience in developing innovative solutions for startups, enterprise products, and award-winning agencies. Skilled in both remote and in-office environments, I take pride in taking ownership of projects and consistently delivering results ahead of expectations. Proficient in web development, WordPress, and Laravel, and always eager to adapt to new technologies and stack requirements..
+Software Engineer with over 10 years of experience in developing innovative solutions for startups, enterprise products, and award-winning agencies. Skilled in both remote and in-office environments, I take pride in taking ownership of projects and consistently delivering results ahead of expectations. Proficient in web development, WordPress, and Laravel, and always eager to adapt to new technologies and stack requirements.
 
- [this URL](https://binjuhor.com/about "My Online profile")
+ Check my Online profile at [this URL](https://binjuhor.com/about "My Online profile")
 </div>
 
 <div align="left">
