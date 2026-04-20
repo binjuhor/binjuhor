@@ -12,7 +12,7 @@ Software Engineer with over 10 years of experience in developing innovative solu
 
 - 🔭 I’m currently working on PHP, WordPress, Laravel, Shopify, HTML, CSS, jQuery, VueJs & ReactJs.
 
-- 💬 Ask me about WordPress, PHP, HTML, CSS or jQuery.
+- 💬 Ask me about Web development.
 
 - 📫 How to reach me: ping me on [Facebook](https://fb.me/binjuhor) or [Telegram](https://t.me/binjuhor).
 
